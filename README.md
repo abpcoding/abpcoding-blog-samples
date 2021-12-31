@@ -1,2 +1,3 @@
-# abpcoding-blog-samples
-Source code for ABP Coding blog posts
+# ABP Coding blog samples
+
+You will find here source code associated to [ABP Coding blog](https://abpcoding.com/) posts.
